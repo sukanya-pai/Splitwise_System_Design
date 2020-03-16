@@ -1,5 +1,5 @@
 # Splitwise System Design:
-Detailed Designing of Splitwise SystemM
+Detailed Designing of Splitwise System
 
 # Use Cases to be covered:
 - User should be able to add expense
