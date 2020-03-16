@@ -20,7 +20,7 @@ Detailed Designing of Splitwise SystemM
   - The Simplify Debt optimises the transaction exchanges. For example, If A owes B $10 and B owes C $10, then A can directly pay C $10.
   
 # Non Functional Requirement:
-System should be available to everyone at all times
-System should be consistent and show accurate results
-System should handle heavy request flows since many users can login to the system at same time
-System should be secure
+- System should be available to everyone at all times
+- System should be consistent and show accurate results
+- System should handle heavy request flows since many users can login to the system at same time
+- System should be secure
