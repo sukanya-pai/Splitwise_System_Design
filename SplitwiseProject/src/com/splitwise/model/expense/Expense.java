@@ -20,9 +20,6 @@ public abstract class Expense {
 	
 	//99
 	
-									
-	// private Image image;
-	// private Location location;
 	
 	private static long NEW_UID = 0;
 

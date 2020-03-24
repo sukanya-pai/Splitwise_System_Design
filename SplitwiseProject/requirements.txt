@@ -1,0 +1,23 @@
+1) User should be able to add expense.
+2) User can pay for others and the amount should be splitted amongst the friends.
+3) Splitting can be 
+	- Equally (100 50,50,50)
+		-> Check - Sum should be equal to the total amount.
+		-> Recurring decimal issue
+		
+	- Unequally
+		- Exact amount
+			-> Check - Sum should be equal to the total amount.
+			
+		- Percentage
+			-> Check - Sum of individual percentages should be equal to 100.
+			-> Recurring decimal issue
+4) Expense details including name, date, addedBy, image, location, category.
+5) User should be able to see his past expenses.
+6) User should be able to see his balances.
+7) User should be able to settle his balance with a friend.
+--------------------------------------------------------------------------------
+
+6) User should be able to create groups.
+7) Expenses can be either of a group or individual.
+8) Simplify balances
